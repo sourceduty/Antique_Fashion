@@ -8,6 +8,9 @@
 In addition to generating images, Antique Fashion engages users in a step-by-step dialogue to refine their requests. By guiding users through questions on specific time periods, garment details, materials, and preferred settings, it enhances the overall precision and creativity of each request. This interactive process helps users explore historical fashion nuances and experiment with styles, poses, and settings that align with their vision, ensuring the final images embody the timeless charm of antique fashion.
 
 #
+![Antiques](https://github.com/user-attachments/assets/d43d1013-d7d2-43fd-934b-ae5923b6ed20)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
